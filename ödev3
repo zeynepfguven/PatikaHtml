@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sütlaç Tarifi</title>
+    <style>
+        body {
+            background-color: #fffaf0;
+            font-family: 'Georgia', serif;
+            color: #5a3a1a;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            color: #8b4513;
+        }
+        h2 {
+            color: #6b3f16;
+            margin-top: 20px;
+        }
+        .ingredients, .steps {
+            background-color: #f9f4eb;
+            border: 1px solid #d4b391;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: square;
+        }
+        a {
+            color: #6b3f16;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        p {
+            text-align: center;
+            font-style: italic;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Sütlaç</h1>
+
+    <p>Türk mutfağının en sevilen sütlü tatlılarından biri olan sütlaç, hafifliği ve lezzetiyle herkesin favorisi!</p>
+
+    <h2>Kaç Kişilik: 6 Kişilik | Hazırlama Süresi: 10 dakika | Pişirme Süresi: 30 dakika</h2>
+
+    <div class="ingredients">
+        <h2>Sütlaç İçin Malzemeler</h2>
+        <ul>
+            <li>1 litre süt</li>
+            <li>1 su bardağı pirinç</li>
+            <li>1,5 su bardağı toz şeker</li>
+            <li>1 paket vanilin</li>
+            <li>1 yemek kaşığı nişasta (isteğe bağlı)</li>
+            <li>Tarçın (üzeri için)</li>
+        </ul>
+    </div>
+
+    <div class="steps">
+        <h2>Sütlaç Nasıl Yapılır?</h2>
+        <ol>
+            <li>Pirinçleri yıkayın ve tencerede üzerini geçecek kadar su ile haşlayın.</li>
+            <li>Pirinçler yumuşayınca sütü ekleyin ve karıştırarak kaynatmaya başlayın.</li>
+            <li>Kaynadıktan sonra şekeri ekleyin ve 10 dakika daha karıştırarak pişirin.</li>
+            <li>Vanilini ve nişastayı ekleyin, kıvam alana kadar karıştırmaya devam edin.</li>
+            <li>Sütlacı kaselere paylaştırın ve oda sıcaklığında soğumaya bırakın.</li>
+            <li>Servis yaparken üzerine tarçın serpin. Afiyet olsun!</li>
+        </ol>
+    </div>
+
+    <p>Afiyet olsun!</p>
+
+</body>
+</html>
